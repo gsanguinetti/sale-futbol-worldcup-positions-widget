@@ -1,0 +1,5 @@
+plugins:
+  sale_futbol_worldcup_positions_content:
+    type: text
+    default: ''
+    client: true
